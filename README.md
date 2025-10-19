@@ -88,6 +88,7 @@ both of script are in the above repo
 - Scikit-learn
 - spaCy
 - Kaggle / TensorFlow Datasets
+- jupyter notebook
 
 
 
