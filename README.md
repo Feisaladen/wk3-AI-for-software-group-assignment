@@ -90,5 +90,4 @@ both of script are in the above repo
 - Kaggle / TensorFlow Datasets
 
 
-## 📂 Project Structure
 
