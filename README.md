@@ -1,9 +1,10 @@
 # 📘 AI Tools & Frameworks Assignment
 
 ## 👥 Group Members
-- Feisal  
+- Feisal  yakub
 - Maria-Smarts  
-- Nolin  
+- Nolin masai
+- 
 
 ## 📌 Project Overview
 
